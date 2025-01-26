@@ -1,0 +1,5 @@
+flask==2.2.5  # Flask is used to build the backend web application
+python-telegram-bot==20.3  # Library for interacting with the Telegram Bot API
+torch>=1.11.0  # PyTorch is required for running the machine learning model
+transformers>=4.34.0  # Hugging Face Transformers library for loading and using the TinyLlama model
+accelerate>=0.26.0  # Accelerate library for optimized device mapping and memory management
