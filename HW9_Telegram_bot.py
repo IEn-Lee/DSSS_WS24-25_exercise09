@@ -9,7 +9,7 @@ import torch
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
 
 # Telegram Bot Token
-TELEGRAM_TOKEN = "7782403497:AAHCFUOHncSZPIGFBbO0JfHgJfhx2cQHtr8"  # Replace with your Telegram Bot Token
+TELEGRAM_TOKEN = "To avoid Publicly leaked secret, the API token is stored in a PDF file."
 
 # Define Telegram command handler
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
